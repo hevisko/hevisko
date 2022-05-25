@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hevisko
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... nothing
+- 👀 I’m interested in things that work
+- 🌱 I’m currently learning too many things to mention
 - 💞️ I’m looking to collaborate on ... things that make things Linux work beterer than Solaris...
 - 📫 How to reach me ... drop a DM here
 
